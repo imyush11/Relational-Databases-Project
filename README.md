@@ -1,1 +1,9 @@
 # Relational-Databases-Project
+
+In this project, we dissected Zomato's platform, a global food delivery and restaurant discovery service, to understand its comprehensive data model and the real-world problems it solves. Zomato connects users with a wide array of dining options, offering features such as easy online ordering, real-time delivery tracking, and personalized recommendations. Our analysis highlighted Zomato's solutions to several key challenges, including difficulty in discovering new restaurants, providing reliable food delivery, supporting local and emerging eateries, and offering diverse food options.
+
+We developed a schema description encompassing multiple entities: Users, Restaurants, Orders, Payments, Deliveries, Items, and Reviews. Each entity contains attributes detailing their properties and relationships. For instance, users can place multiple orders, restaurants can receive multiple orders, and each order is linked to specific payment and delivery details. Items are associated with orders and restaurants, while users can post multiple reviews for different restaurants.
+
+The ER diagram created for this schema visually represents these relationships, providing a clear understanding of the interactions between entities. This model ensures data consistency and efficient management, supporting Zomato’s functionality.
+
+Through this project, we gained insights into Zomato's robust data handling, user experience enhancement, and support for local businesses. We also developed skills in data modeling, understanding complex interactions within a platform, and visualizing these through ER diagrams. Zomato’s innovative approach to food delivery and restaurant discovery has transformed dining experiences, making it a leader in the industry. This project summary encapsulates the key elements of Zomato's platform, its problem-solving capabilities, and the detailed schema that underpins its success.
